@@ -1,0 +1,126 @@
+
+h1{
+    text-align: center;
+}
+.btn{
+    margin-top: 10px;
+}
+
+.div{
+    position: relative;
+    /* border: 1px solid blue; */
+    height: 125px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#sek{
+    position: absolute;
+    /* color: red; */
+    /* border: 1px solid purple; */
+    margin-top: 45px;
+    
+   
+}
+.ilkdiv{
+    position: absolute;
+    /* border: 1px solid red; */
+    margin-left: 155px;
+}
+.ikincidiv{
+    position: absolute;
+    /* border: 1px solid orange; */
+    margin-left: 155px;
+    margin-top: 30px;
+}
+.üçüncüdiv{
+    position: absolute;
+    /* border: 1px solid orange; */
+    margin-left: 155px;
+    margin-top: 60px;
+}
+.dördüncüdiv{
+    position: absolute;
+    /* border: 1px solid orange; */
+    margin-left: 155px;
+    margin-top: 90px;
+
+
+}
+.prog{
+    position: relative;
+    /* border: 1px solid blue; */
+    height: 100px;
+}
+.prodil{
+    position: absolute;
+    /* color: red; */
+    /* border: 1px solid purple; */
+    margin-top: 45px;
+
+}
+.protab{
+    position: absolute;
+    /* color: red; */
+    /* border: 1px solid purple; */
+    margin-top: 5px;
+    margin-left: 155px;
+}
+#şeker{
+    width: 120px;
+}
+.text{
+    display: inline-block;
+    width: 130px;
+    margin-top: 5px;
+}
+.text1{
+    display: inline-block;
+    width: 150px;
+}
+/* h4{
+    margin-left: 50px;
+} */
+
+#xxx{
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+/* p{
+    margin-left: 50px;
+    font-size: 1rem;
+    font-weight: bold;
+} */
+
+
+#istiyorum{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+/* #istiyorum:active{
+    text-decoration: none;
+} */
+/* #istiyorum:visited{
+    text-decoration: none;
+} */
+#istiyorum:hover, :active{
+    text-decoration: none;
+}
+
+#istemiyorum{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#istemiyorum:hover, :active{
+    text-decoration: none;
+}
+
+p{
+    display: inline;
+}
